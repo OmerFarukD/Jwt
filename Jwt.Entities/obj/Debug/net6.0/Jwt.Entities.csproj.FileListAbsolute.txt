@@ -1,0 +1,15 @@
+C:\Users\omerc\RiderProjects\Jwt\Jwt.Entities\bin\Debug\net6.0\Jwt.Entities.deps.json
+C:\Users\omerc\RiderProjects\Jwt\Jwt.Entities\bin\Debug\net6.0\Jwt.Entities.dll
+C:\Users\omerc\RiderProjects\Jwt\Jwt.Entities\bin\Debug\net6.0\Jwt.Entities.pdb
+C:\Users\omerc\RiderProjects\Jwt\Jwt.Entities\bin\Debug\net6.0\Jwt.Core.dll
+C:\Users\omerc\RiderProjects\Jwt\Jwt.Entities\bin\Debug\net6.0\Jwt.Core.pdb
+C:\Users\omerc\RiderProjects\Jwt\Jwt.Entities\obj\Debug\net6.0\Jwt.Entities.csproj.AssemblyReference.cache
+C:\Users\omerc\RiderProjects\Jwt\Jwt.Entities\obj\Debug\net6.0\Jwt.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\RiderProjects\Jwt\Jwt.Entities\obj\Debug\net6.0\Jwt.Entities.AssemblyInfoInputs.cache
+C:\Users\omerc\RiderProjects\Jwt\Jwt.Entities\obj\Debug\net6.0\Jwt.Entities.AssemblyInfo.cs
+C:\Users\omerc\RiderProjects\Jwt\Jwt.Entities\obj\Debug\net6.0\Jwt.Entities.csproj.CoreCompileInputs.cache
+C:\Users\omerc\RiderProjects\Jwt\Jwt.Entities\obj\Debug\net6.0\Jwt.Entities.csproj.CopyComplete
+C:\Users\omerc\RiderProjects\Jwt\Jwt.Entities\obj\Debug\net6.0\Jwt.Entities.dll
+C:\Users\omerc\RiderProjects\Jwt\Jwt.Entities\obj\Debug\net6.0\refint\Jwt.Entities.dll
+C:\Users\omerc\RiderProjects\Jwt\Jwt.Entities\obj\Debug\net6.0\Jwt.Entities.pdb
+C:\Users\omerc\RiderProjects\Jwt\Jwt.Entities\obj\Debug\net6.0\ref\Jwt.Entities.dll
